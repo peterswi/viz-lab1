@@ -22,5 +22,14 @@ h1 {
 }
 
 a {
+    font-family: Serif;
     color: springgreen;
+}
+a:hover{
+    font-family: "Comic Sans MS";
+    color: aqua;
+}
+
+div p{
+    background-color: antiquewhite;
 }
