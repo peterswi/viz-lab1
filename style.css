@@ -1,0 +1,26 @@
+
+body {
+    font-family: Serif;
+
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+#content {
+    font-family: "Comic Sans MS";
+}
+
+#generate {
+
+}
+
+.button {
+    color: springgreen;
+    background-color: beige;
+}
+
+a {
+    color: springgreen;
+}
