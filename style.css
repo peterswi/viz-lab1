@@ -9,7 +9,7 @@ h1 {
 }
 
 #content {
-    font-family: "Comic Sans MS";
+    font-family: Serif;
 }
 
 #generate {
@@ -18,7 +18,7 @@ h1 {
 
 .button {
     color: springgreen;
-    background-color: beige;
+    background-color: whitesmoke;
 }
 
 a {
@@ -31,5 +31,5 @@ a:hover{
 }
 
 div p{
-    background-color: antiquewhite;
+    background-color: white;
 }

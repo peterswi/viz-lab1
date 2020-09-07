@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1087a66b-c68e-404a-b7d9-9d16156b09e1" name="Default Changelist" comment="filling things in slowly">
+    <list default="true" id="1087a66b-c68e-404a-b7d9-9d16156b09e1" name="Default Changelist" comment="push push push">
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -37,6 +38,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -85,7 +87,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599167857652</updated>
-      <workItem from="1599167860878" duration="2444000" />
+      <workItem from="1599167860878" duration="3143000" />
+      <workItem from="1599487115471" duration="25000" />
+      <workItem from="1599487989053" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1599167903615</created>
@@ -108,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599169999282</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="push push push">
+      <created>1599170405931</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599170405932</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,18 +135,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update README.md" />
     <MESSAGE value="adding content" />
     <MESSAGE value="filling things in slowly" />
-    <option name="LAST_COMMIT_MESSAGE" value="filling things in slowly" />
+    <MESSAGE value="push push push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push push push" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1599170003280">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1599170410308">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599170003280" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599170410308" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1599168151197">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
