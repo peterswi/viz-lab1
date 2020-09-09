@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1087a66b-c68e-404a-b7d9-9d16156b09e1" name="Default Changelist" comment="reupdating">
+    <list default="true" id="1087a66b-c68e-404a-b7d9-9d16156b09e1" name="Default Changelist" comment="rounding the pics for continuity">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -81,7 +81,7 @@
       <workItem from="1599487115471" duration="25000" />
       <workItem from="1599487989053" duration="4039000" />
       <workItem from="1599588015865" duration="90000" />
-      <workItem from="1599658750364" duration="5719000" />
+      <workItem from="1599658750364" duration="6939000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1599167903615</created>
@@ -174,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599670606903</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="reupdating">
+      <created>1599676881494</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1599676881495</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +213,8 @@
     <MESSAGE value="structural adjustment for title" />
     <MESSAGE value="styling updates: borders and such" />
     <MESSAGE value="reupdating" />
-    <option name="LAST_COMMIT_MESSAGE" value="reupdating" />
+    <MESSAGE value="rounding the pics for continuity" />
+    <option name="LAST_COMMIT_MESSAGE" value="rounding the pics for continuity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1599588102923">
@@ -218,10 +226,10 @@
     </state>
     <state x="2673" y="387" key="Github.Dialog.Accounts.Choose/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599660556502" />
     <state x="502" y="253" key="Github.Dialog.Accounts.Choose/0.0.1280.680@0.0.1280.680" timestamp="1599519210497" />
-    <state x="2270" y="112" key="Vcs.Push.Dialog.v2" timestamp="1599670609503">
+    <state x="2270" y="112" key="Vcs.Push.Dialog.v2" timestamp="1599676892472">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2270" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599670609503" />
+    <state x="2270" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599676892472" />
     <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599519104176" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1599168151197">
       <screen x="0" y="0" width="1280" height="680" />
