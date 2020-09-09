@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1087a66b-c68e-404a-b7d9-9d16156b09e1" name="Default Changelist" comment="now added css framework and more styling">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="1087a66b-c68e-404a-b7d9-9d16156b09e1" name="Default Changelist" comment="linking more logically">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
       <workItem from="1599487115471" duration="25000" />
       <workItem from="1599487989053" duration="4039000" />
       <workItem from="1599588015865" duration="90000" />
-      <workItem from="1599658750364" duration="1631000" />
+      <workItem from="1599658750364" duration="1738000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1599167903615</created>
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599660221205</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="linking more logically">
+      <created>1599660438606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599660438607</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +153,8 @@
     <MESSAGE value="push push push" />
     <MESSAGE value="steady progress" />
     <MESSAGE value="now added css framework and more styling" />
-    <option name="LAST_COMMIT_MESSAGE" value="now added css framework and more styling" />
+    <MESSAGE value="linking more logically" />
+    <option name="LAST_COMMIT_MESSAGE" value="linking more logically" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1599588102923">
