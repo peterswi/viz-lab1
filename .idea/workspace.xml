@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1087a66b-c68e-404a-b7d9-9d16156b09e1" name="Default Changelist" comment="rounding the pics for continuity">
+    <list default="true" id="1087a66b-c68e-404a-b7d9-9d16156b09e1" name="Default Changelist" comment="cleaning">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,7 @@
       <workItem from="1599487115471" duration="25000" />
       <workItem from="1599487989053" duration="4039000" />
       <workItem from="1599588015865" duration="90000" />
-      <workItem from="1599658750364" duration="6939000" />
+      <workItem from="1599658750364" duration="7404000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1599167903615</created>
@@ -181,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599676881495</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="improving styling">
+      <created>1599686393087</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1599686393088</updated>
+    </task>
+    <task id="LOCAL-00016" summary="cleaning">
+      <created>1599686402418</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1599686402418</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +227,9 @@
     <MESSAGE value="styling updates: borders and such" />
     <MESSAGE value="reupdating" />
     <MESSAGE value="rounding the pics for continuity" />
-    <option name="LAST_COMMIT_MESSAGE" value="rounding the pics for continuity" />
+    <MESSAGE value="improving styling" />
+    <MESSAGE value="cleaning" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaning" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1599588102923">
