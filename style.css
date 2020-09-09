@@ -29,6 +29,11 @@ h1 {
     margin-right: auto;
     display: block;
 }
+.button:hover{
+    background-color: white;
+    color: maroon;
+    border-color: maroon;
+}
 
 
 a {
