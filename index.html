@@ -3,30 +3,65 @@
 <head>
     <meta charset="UTF-8">
     <title> Viz Lab 1 </title>
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+
+    <!-- CSS Reset -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+
+    <!-- Milligram CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
+
+    <!--My Style Sheet -->
     <link rel="stylesheet" href="style.css">
+
+    <!--Dynamic JS Script -->
     <script defer src="js/main.js"></script>
+
 </head>
+
 <body>
+<div class="container">
+    <div class="row">
+        <div class="column">
 
-<h1>Welcome to BC!</h1>
+            <h2>
+                <u>Facts:</u>
+            </h2>
 
-<div id="content">
-    <button id="generate" class="button">
-        Want more info? Click here for random facts!
-    </button>
-    <p>
-       Facts:
-    </p>
+        </div>
+        <div class="column">
+            <h1>Welcome to BC!</h1>
+            <button id="generate" class="button">
+                <b>Want more info? Click here for random facts!</b>
+            </button>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="column" id="content">
+
+        </div>
+        <div class="column">
+            <img src="labryinth.jpg" alt="the bc reflection labryinth" width="600" height="400">
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="column">
+
+                <a class='button button-outline' href="https://www.givecard.io/">
+                Visit GiveCard
+                </a>
+
+        </div>
+        <div class="column">
+
+        </div>
+    </div>
 </div>
 
 
-<img src="labryinth.jpg" alt="the bc reflection labryinth" width="600" height="400">
-<div>
-
-    <a href="https://www.givecard.io/">
-        Visit GiveCard
-    </a>
-
-</div>
 </body>
 </html>

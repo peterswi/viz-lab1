@@ -1,11 +1,14 @@
 
 body {
     font-family: Serif;
+    background-color: palegoldenrod;
+    color: black;
 
 }
 
 h1 {
     font-family: sans-serif;
+    color: maroon;
 }
 
 #content {
@@ -17,19 +20,29 @@ h1 {
 }
 
 .button {
-    color: springgreen;
-    background-color: whitesmoke;
+    color: white;
+    background-color: maroon;
+}
+.button-outline {
+    color: Black;
+    border-color: maroon;
+
 }
 
 a {
+    font-size: large;
     font-family: Serif;
-    color: springgreen;
+    color: maroon;
 }
 a:hover{
-    font-family: "Comic Sans MS";
-    color: aqua;
+    font-size: 105%;
+    color: red;
 }
 
 div p{
-    background-color: white;
+    color: maroon;
+    width:200px;
+    padding:15px;
+    border:black 5px dotted;
+    margin: 20px;
 }
